@@ -1,0 +1,28 @@
+{
+  "name": "framer-motion-2-drag-to-reorder",
+  "version": "1.0.0",
+  "description": "A demo of drag-to-reorder in Framer Motion 2",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "framer-motion": "3.2.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-scripts": "4.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
